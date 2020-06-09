@@ -5,7 +5,4 @@ def test_addition():
     assert add.addition(x, y) == 11
 
 
-def test_inf_loop():
-    x = 1
-    inf_loop()
 
